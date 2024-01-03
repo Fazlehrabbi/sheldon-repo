@@ -1,8 +1,8 @@
 div{
     background-color: aquamarine;
     padding: 1px;
-    border: 10px;
-    margin: 2px;
+    border: 1px black;
+    margin: 5px ;
    
     box-shadow: 20px solid black;
 }
